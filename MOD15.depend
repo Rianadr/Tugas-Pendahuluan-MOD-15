@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672575507 source:d:\code block\mod15\main.cpp
+	"tree.h"
+	<iostream>
+
+1672574526 d:\code block\mod15\tree.h
+	<iostream>
+
+1672575545 source:d:\code block\mod15\tree.cpp
+	"tree.h"
+
